@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Tales of Echo AI",
+  "description": "A high-end AI music and audio analysis platform featuring advanced chat capabilities, stem separation workflows, and music production tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
